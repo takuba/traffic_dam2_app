@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">traficoReto</string>
+    <string name="app_login_title">Traffic App</string>
+    <string name="app_login_login">Login</string>
+    <string name="app_login_register">Register</string>
+    <string name="app_login_nopassword">have you forgotten your password?</string>
+    <string name="app_login_password">Password</string>
+    <string name="app_register_mail">Mail</string>
+    <string name="app_register_password">Repeat the password</string>
+    <string name="app_register_name">Name</string>
+    <string name="app_register_city">City</string>
+    <string name="app_register_country">Country</string>
+    <string name="app_register_age">Age</string>
+    <string name="app_register_street">Street</string>
+
+</resources>
