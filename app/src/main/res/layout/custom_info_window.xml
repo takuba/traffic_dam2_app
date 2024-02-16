@@ -1,0 +1,68 @@
+<!-- res/layout/custom_info_window.xml -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/shape"
+    android:paddingHorizontal="50dp"
+    android:paddingVertical="10dp">
+
+    <!-- Aquí puedes agregar elementos según tus necesidades -->
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:text="Título"
+        android:layout_marginVertical="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+
+    <ImageView
+        android:id="@+id/imageView_details"
+        android:layout_width="170dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginVertical="5dp"
+        android:src="@drawable/camera"/>
+
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginVertical="10dp"
+        android:layout_height="wrap_content"
+        android:text="Descripción"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:gravity="center"
+
+        android:text="TextView" />
+
+</LinearLayout>

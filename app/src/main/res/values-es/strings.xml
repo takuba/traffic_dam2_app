@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_login_title">Traffico App</string>
+    <string name="app_login_login">Login</string>
+    <string name="app_login_register">Registro</string>
+    <string name="app_login_logout">Cerrar sesión</string>
+    <string name="app_login_nopassword">Has olvidado tu contraseña?</string>
+    <string name="app_register_mail">Johndoe@gmail.com</string>
+    <string name="app_register_password">Repite tu contraseña</string>
+    <string name="app_register_name">Nombre</string>
+    <string name="app_register_city">Ciudad</string>
+    <string name="app_register_country">País</string>
+    <string name="app_register_age">Edad</string>
+    <string name="app_register_street">Calle</string>
+    <string name="app_item_camera">Camaras</string>
+    <string name="app_item_incidences">Incidencias</string>
+    <string name="app_item_meter">Sensores</string>
+    <string name="app_fav_title">Selecciona tu filtro</string>
+    <string name="app_login_password">contraseña</string>
+    <string name="app_login_lang_es">Español</string>
+    <string name="app_login_lang_en">Inglés</string>
+    <string name="app_login_lang_title">Selecciona un idioma</string>
+    <string name="app_login_lang_btn">Cambiar idioma</string>
+    <string name="app_menu_list">Lista</string>
+    <string name="app_menu_user">Usuario</string>
+    <string name="app_menu_config">Ajustes</string>
+</resources>

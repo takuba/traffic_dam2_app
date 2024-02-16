@@ -3,14 +3,26 @@
     <string name="app_login_title">Traffic App</string>
     <string name="app_login_login">Login</string>
     <string name="app_login_register">Register</string>
+    <string name="app_login_logout">Logout</string>
     <string name="app_login_nopassword">have you forgotten your password?</string>
-    <string name="app_login_password">Password</string>
-    <string name="app_register_mail">Mail</string>
+    <string name="app_register_mail">Johndoe@gmail.com</string>
     <string name="app_register_password">Repeat the password</string>
     <string name="app_register_name">Name</string>
     <string name="app_register_city">City</string>
     <string name="app_register_country">Country</string>
     <string name="app_register_age">Age</string>
     <string name="app_register_street">Street</string>
+    <string name="app_item_camera">Cameras</string>
+    <string name="app_item_incidences">Incidences</string>
+    <string name="app_item_meter">Flow Meter</string>
+    <string name="app_fav_title">Select your Filter</string>
+    <string name="app_login_password">Password</string>
+    <string name="app_login_lang_es">Spanish</string>
+    <string name="app_login_lang_en">English</string>
+    <string name="app_login_lang_title">Select a language</string>
+    <string name="app_login_lang_btn">Change language</string>
+    <string name="app_menu_list">List</string>
+    <string name="app_menu_user">User</string>
+    <string name="app_menu_config">Setting</string>
 
 </resources>
